@@ -1,0 +1,6 @@
+framework module Pods_sampleCheckIOTests {
+  umbrella header "Pods-sampleCheckIOTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
